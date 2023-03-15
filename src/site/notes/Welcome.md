@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-15T00:15:11.908-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-15T00:35:41.049-04:00"}
 ---
 
 Welcome to my [[digital garden\|digital garden]], “Into the Middle Distance.”  
@@ -8,7 +8,7 @@ The [Urban Dictionary](https://urbandictionary.com) defines “middle distance�
 
 If you are not familiar with digital gardens, think of them as similar to [[Personal Knowledge Management\|Personal Knowledge Management]] (PKM) systems. But rather than a personal/private repository everything is public. Intentionally public. As in [[Learning in Public\|Learning in Public]]. Others have described this as [[working with the garage door open\|working with the garage door open]]. 
 
-As such, you will find this a largely unstructured space. Items are interconnected organically rather than chronologically. What I am [[focusing on at the moment\|focusing on at the moment]] is subject to change. Many thoughts and topics may be incomplete, inaccurate, or in a draft state. That’s because this space is for me to capture, parse, ponder, and develop my thoughts and projects. 
+As such, you will find this a largely unstructured space. Items are interconnected organically rather than chronologically. [[What I am focusing on at the moment\|What I am focusing on at the moment]] is subject to change. Many thoughts and topics may be incomplete, inaccurate, or in a draft state. That’s because this space is for me to capture, parse, ponder, and develop my thoughts and projects. 
 
 I hope you, too, are able to find value here. You are welcome to follow along and even offer constructive insights if offered respectfully. Other digital gardeners have compiled a [[few rules of the road\|few rules of the road]], which I hope you will bear in mind if you choose to participate. 
 
