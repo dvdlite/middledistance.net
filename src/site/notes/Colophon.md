@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/colophon/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/colophon/","created":"2023-03-14T23:23:57.615-04:00","updated":"2023-03-14T23:28:14.896-04:00"}
 ---
 
 
