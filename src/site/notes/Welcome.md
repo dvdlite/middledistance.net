@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-14T23:59:38.984-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-15T00:15:11.908-04:00"}
 ---
 
 Welcome to my [[digital garden\|digital garden]], “Into the Middle Distance.”  
@@ -16,6 +16,6 @@ You can peruse the connection graph below or use the search bar above if you are
 
 [[Technology\|Technology]], [[Woodworking\|Woodworking]] and other [[Maker\|Maker]] projects, [[Self-Actualization\|Self-Actualization]] & [[Spirituality\|Spirituality]], and [[Recreation\|Recreation]].
 
-— March 14, 2023, Holetown, Barbados
+Established March 14, 2023, while on vacation in Holetown, Barbados.
 
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
