@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/into-the-middle-distance/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/into-the-middle-distance/","tags":["gardenEntry"],"created":"2023-03-14 10:00pm","updated":""}
 ---
 
 Welcome to my [[digital garden\|digital garden]], “Into the Middle Distance.”  
