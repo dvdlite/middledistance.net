@@ -16,6 +16,6 @@ You can peruse the connection graph below or use the search bar above if you are
 
 [[Technology\|Technology]], [[Woodworking\|Woodworking]] and other [[Maker\|Maker]] projects, [[Self-Actualization\|Self-Actualization]] & [[Spirituality\|Spirituality]], and [[Recreation\|Recreation]].
 
-— March 14, 2023 -- Holetown, Barbados
+— March 14, 2023, Holetown, Barbados
 
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
