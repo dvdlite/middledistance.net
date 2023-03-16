@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license/","created":"2023-03-16T15:01:26.523-04:00","updated":"2023-03-16T15:50:13.163-04:00"}
+{"dg-publish":true,"permalink":"/license/","created":"2023-03-16T15:01:26.523-04:00","updated":"2023-03-16T17:54:55.025-04:00"}
 ---
 
 Unless otherwise noted, all software on this site is [free and open-source software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) licensed under the MIT License.
@@ -20,3 +20,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ### Creative Commons Attribution 4.0 International (CC-BY 4.0) License
 
 The remaining content on this website, authored by David Leitko, is licensed under a [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise indicated.
+
+[[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
