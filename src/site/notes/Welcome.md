@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-16T18:00:13.125-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-19T17:10:47.811-04:00"}
 ---
 
-Welcome to my [[digital garden\|digital garden]], “Into the Middle Distance.”  
+Welcome to my [[digital garden\|digital garden]], _Into the Middle Distance_. 
 
 The [Urban Dictionary](https://urbandictionary.com) defines “middle distance” as “The place that you can see when you are not quite focusing on the world around you. Often is a blank screen that you can project your own thoughts onto.”  I thought that was fairly profound definition given.. well.. some of the other things you can find defined on that site. 
 
