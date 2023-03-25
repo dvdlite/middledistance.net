@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-knowledge-management/","created":"2023-03-19T16:29:39.789-04:00","updated":"2023-03-19T17:21:23.294-04:00"}
+{"dg-publish":true,"permalink":"/personal-knowledge-management/","created":"2023-03-19T16:29:39.789-04:00","updated":"2023-03-25T10:33:03.373-04:00"}
 ---
 
 PKM stands for Personal Knowledge Management. It refers to the process of managing, organizing, and making sense of one's own knowledge and information, including both explicit and tacit knowledge.
@@ -8,4 +8,11 @@ In essence, PKM is a system for individuals to effectively capture, store, retri
 
 The goal of PKM is to enhance one's ability to learn, adapt, and innovate in their personal and professional lives. By developing a structured approach to managing knowledge, individuals can improve their decision-making, problem-solving, and creativity. Additionally, PKM can help individuals build and maintain their own network of knowledge resources and connections, which can be a valuable asset in today's knowledge-based economy.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+
+</div></div>
