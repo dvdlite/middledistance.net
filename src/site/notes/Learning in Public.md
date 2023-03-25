@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning-in-public/","created":"2023-03-19T16:30:38.669-04:00","updated":"2023-03-19T17:21:11.245-04:00"}
+{"dg-publish":true,"permalink":"/learning-in-public/","created":"2023-03-19T16:30:38.669-04:00","updated":"2023-03-25T10:32:47.464-04:00"}
 ---
 
 "Learning in public" refers to the process of openly sharing one's learning experiences, progress, and failures with a wider audience. This approach emphasizes the idea of transparency, vulnerability, and community-building in the learning process. The concept has gained momentum in recent years as social media platforms have made it easier for people to share their learning journeys with a global audience.
@@ -12,4 +12,11 @@ However, learning in public also has its risks and challenges. Sharing one's fai
 
 In summary, learning in public can be a valuable approach for those seeking to deepen their knowledge and expertise in a particular field, as well as build a supportive community of like-minded individuals. While it does come with its challenges, the benefits of transparency and accountability can make it a worthwhile approach for many learners.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+
+</div></div>
