@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact/","created":"2023-03-19T16:33:05.550-04:00","updated":"2023-03-19T19:14:53.732-04:00"}
+{"dg-publish":true,"permalink":"/contact/","created":"2023-03-19T16:33:05.550-04:00","updated":"2023-03-25T10:32:24.076-04:00"}
 ---
 
 I would love to hear from you! Whether you have a question, feedback, or just want to say hello, please don't hesitate to reach out to me using any of the methods below.
@@ -16,4 +16,11 @@ Connect with me on Mastodon via [@dvdlite@hachyderm.io](https://hachyderm.io/@dv
 
 To reach me privately, you can send email to [dvdlite@middledistance.net](mailto:dvdlite@middledistance.net) and I'll get back to you as I am able.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+
+</div></div>
