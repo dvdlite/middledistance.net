@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-19T17:10:47.811-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-03-25T10:23:19.763-04:00"}
 ---
 
 Welcome to my [[digital garden\|digital garden]], _Into the Middle Distance_. 
@@ -18,4 +18,12 @@ You can peruse the connection graph below or use the search bar above if you are
 
 Established March 14, 2023, (&pi; day for us Americans) while on vacation in Holetown, Barbados.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+
+</div></div>
+
