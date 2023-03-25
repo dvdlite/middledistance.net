@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home-lab/","created":"2023-03-19T19:41:40.835-04:00","updated":"2023-03-20T00:23:53.951-04:00"}
+{"dg-publish":true,"permalink":"/home-lab/","created":"2023-03-19T19:41:40.835-04:00","updated":"2023-03-25T10:32:43.691-04:00"}
 ---
-
 
 While I have certainly had plenty of servers and devices at home over the years, I had taken a few years off from noodling at home and focused on consumer hardware from Apple, Eero, etc.  Playing with Linux was relegated to VMware or Parallels virtual machines on my Macs, and I hosted my websites on Linux hosts at DigitalOcean and later AWS Lightsail.  What little Windows I have played with has been virtualized on my Macs, as well.
 
@@ -39,4 +38,11 @@ I'm adding hardware to my HomeLab opportunistically..  basically grabbing freebi
 - LAN network, DHCP served by PFsense router (production/household)
 - LAB network, DHCP served by PFsense router (scratch space)
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 [[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+
+</div></div>
