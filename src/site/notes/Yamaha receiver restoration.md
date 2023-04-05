@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:18:24.818-04:00"}
+{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:25:30.714-04:00"}
 ---
 
 I picked up an old [Yamaha CR-640 receiver](https://classicreceivers.com/yamaha-cr-640) on Facebook Marketplace a couple of weeks ago.  I got a great deal on it as the seller wasn't sure if everything worked and it hadn't been used for a while.  But it looked great and I have some skills with electronics, so I figured I would give it a shot and bought it on faith.
 
 As it turned out, the entire system worked almost perfectly!  After a little exterior cleaning, it looks practically mint.  The amplifier, tuner, and everything else electronic worked perfectly. Mechanically, none of the lights worked and the volume and balance pots were pretty scratchy.
 
-A few squirts of no-residue electrical contact cleaner took care of the volume and balance controls.  And today I broke out the [[Pinecil soldering iron\|Pinecil soldering iron]], heat-shrink tubing, and a light replacement kit from eBay and completed the restoration.  Four bulbs were simple twist-in replacements.  The other four bulbs were a little more complicated, as the old bulbs had to be cut out and replacements soldered into the wiring.  Thankfully, all of the replacement bulbs worked perfectly and everything now lights up as originally intended.
+A few squirts of no-residue electrical contact cleaner took care of the volume and balance controls.  Today I broke out the [[Pinecil soldering iron\|Pinecil soldering iron]], heat-shrink tubing, and a light replacement kit from eBay and completed the restoration.  Four bulbs were simple twist-in replacements.  The other four bulbs were a little more complicated as the old bulbs had to be cut out and replacements soldered into the wiring.  Thankfully, all of the replacement bulbs worked perfectly and everything now lights up as originally intended.
 
 I guess I should have waited until tomorrow (2023-04-06) to complete the restoration..  The original inspection label on the back is dated April 6th, 1979, so tomorrow is it's 44th birthday!
 
