@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:30:05.843-04:00"}
+{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:30:52.348-04:00"}
 ---
 
-I picked up an old [Yamaha CR-640 receiver](https://classicreceivers.com/yamaha-cr-640) on Facebook Marketplace a couple of weeks ago.  I got a great deal on it as the seller wasn't sure if everything worked and it hadn't been used for a while.  But it looked great and I have some skills with electronics, so I figured I would give it a shot and bought it on faith.
+I picked up an old silver-face, wood cabinet [Yamaha CR-640 receiver](https://classicreceivers.com/yamaha-cr-640) on Facebook Marketplace a couple of weeks ago.  I got a great deal on it as the seller wasn't sure if everything worked and it hadn't been used for a while.  But it looked great and I have some skills with electronics, so I figured I would give it a shot and bought it on faith.
 
 As it turned out, the entire system worked almost perfectly!  After a little exterior cleaning, it looks practically mint.  The amplifier, tuner, and everything else electronic worked perfectly. Mechanically, none of the lights worked and the volume and balance pots were pretty scratchy.
 
