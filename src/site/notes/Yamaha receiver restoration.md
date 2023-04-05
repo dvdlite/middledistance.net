@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:25:30.714-04:00"}
+{"dg-publish":true,"permalink":"/yamaha-receiver-restoration/","created":"2023-04-05T14:45:24.175-04:00","updated":"2023-04-05T15:30:05.843-04:00"}
 ---
 
 I picked up an old [Yamaha CR-640 receiver](https://classicreceivers.com/yamaha-cr-640) on Facebook Marketplace a couple of weeks ago.  I got a great deal on it as the seller wasn't sure if everything worked and it hadn't been used for a while.  But it looked great and I have some skills with electronics, so I figured I would give it a shot and bought it on faith.
@@ -10,7 +10,7 @@ A few squirts of no-residue electrical contact cleaner took care of the volume a
 
 I guess I should have waited until tomorrow (2023-04-06) to complete the restoration..  The original inspection label on the back is dated April 6th, 1979, so tomorrow is it's 44th birthday!
 
-Now it's as good as new and sounds fantastic.  Not just fantastic for a 44-year-old receiver, but fantastic overall.  It's a beautiful and functional relic and it's built like a tank.
+Now it's as good as new and sounds fantastic.  Not just fantastic for a 44-year-old receiver, but fantastic overall.  It's a beautiful and functional relic and it's built like a tank with repairable circuitry.
 
 I have a small space where I use the receiver, so I paired it with a set of new Dayton Audio B652-AIR 6-1/2" 2-Way bookshelf speakers with AMT tweeters from Amazon and a used Polk PSW10 10" subwoofer from Facebook Marketplace.  Both choices seem to be working really well for my near-field listening purposes and musical tastes.  (The bookshelf speakers are at the corners of my desk and the subwoofer underneath in maybe a 12'x12' office.)
 
