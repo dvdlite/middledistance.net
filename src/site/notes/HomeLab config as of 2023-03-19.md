@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T17:05:33.305-04:00"}
+{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T17:19:16.848-04:00"}
 ---
 
 #### HomeLab Hardware
@@ -19,7 +19,7 @@
 	- [Intel DH77DF Mini-ITX mobo](https://www.intel.com/content/www/us/en/products/sku/59503/intel-desktop-board-dh77df/specifications.html) with an [Intel Core i5-3570K CPU](https://www.intel.com/content/www/us/en/products/sku/65520/intel-core-i53570k-processor-6m-cache-up-to-3-80-ghz/specifications.html), 16GB of RAM, and a 1TB 2.5" SDD
 	- [Intel DQ67EP Mini-ITX mobo](https://www.intel.com/content/www/us/en/products/sku/51998/intel-desktop-board-dq67ep/specifications.html) with an [Intel Core i5-2400 CPU]([https://www.intel.com/content/www/us/en/products/sku/52207/intel-core-i52400-processor-6m-cache-up-to-3-40-ghz/specifications.html](https://www.intel.com/content/www/us/en/products/sku/52207/intel-core-i52400-processor-6m-cache-up-to-3-40-ghz/specifications.html)), 16GB of RAM, and a 500GB 2.5" SDD
 - Del Dell Optiplex Micro 5060 (I love these!):
-	- [Intel Q370 mobo](https://ark.intel.com/content/www/us/en/ark/products/133282/intel-q370-chipset.html) with an [Intel Core i5-8500T CPU](https://ark.intel.com/content/www/us/en/ark/products/129941/intel-core-i58500t-processor-9m-cache-up-to-3-50-ghz.html), 8GB RAM, 256GB M.2 NVMe SSD
+	- [Intel Q370 mobo](https://ark.intel.com/content/www/us/en/ark/products/133282/intel-q370-chipset.html) with an [Intel Core i5-8500T CPU](https://ark.intel.com/content/www/us/en/ark/products/129941/intel-core-i58500t-processor-9m-cache-up-to-3-50-ghz.html), 8GB RAM, and a 256GB M.2 NVMe SSD
 - One [Synology DiskStation DS1019+ 5-Bay NAS](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/19-year/DS1019+/enu/Synology_DS1019_Plus_Data_Sheet_enu.pdf)
 - One [Raspberry Pi 4B w/ 2GB RAM](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 - One [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
