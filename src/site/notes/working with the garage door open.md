@@ -13,6 +13,6 @@ I see this website as "working with the garage door open" by both of these defin
 
 
 
-[[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+[[01 Colophon\|01 Colophon]] | [[02 License\|02 License]] | [[03 Privacy\|03 Privacy]] | [[04 Contact\|04 Contact]]
 
 </div></div>
