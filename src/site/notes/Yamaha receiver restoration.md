@@ -19,6 +19,6 @@ I have a small space where I use the receiver, so I paired it with a set of new 
 
 
 
-[[Colophon\|Colophon]] | [[License\|License]] | [[Privacy\|Privacy]] | [[Contact\|Contact]]
+[[01 Colophon\|01 Colophon]] | [[02 License\|02 License]] | [[03 Privacy\|03 Privacy]] | [[04 Contact\|04 Contact]]
 
 </div></div>
