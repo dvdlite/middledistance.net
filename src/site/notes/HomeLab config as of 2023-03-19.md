@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T17:20:52.594-04:00"}
+{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T17:24:20.328-04:00"}
 ---
 
 #### HomeLab Hardware
@@ -27,8 +27,8 @@
 
 #### HomeLab Software
 
-- All three x86 boxes are currently running [Proxmox VE 7.3-4](https://www.proxmox.com/en/proxmox-ve)
-- [PFsense 2.6.0-RELEASE](https://www.pfsense.org) is my firewall/router running virtualized on one Proxmox host
+- All three x86 boxes are currently running [Proxmox VE 7.3-4](https://www.proxmox.com/en/proxmox-ve) virtualization engine
+- [PFsense 2.6.0-RELEASE](https://www.pfsense.org) is my firewall/router running as a virtualized machine on one Proxmox host
 - The Raspberry Pi 4B is running [Pi-Hole](https://pi-hole.net)
 - The Pico and one of the Pico W's are both set up as temperature sensors for the rack.  The non-WiFi Pico shows the temperature on 7-segment LED displays.  The WiFi Pico serves the temperature via port 80.
 - A [Ubunu Linux](https://ubuntu.com) instance on one of the Proxmox servers polls and logs the temperature from the Pico W every 5 minutes.
