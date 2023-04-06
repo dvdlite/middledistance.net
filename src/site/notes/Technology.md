@@ -5,4 +5,4 @@
 - [[HomeLab\|HomeLab]]
 - Site Reliability Engineer ([[SRE\|SRE]])
 - [[Origin story\|Origin story]]
-- [[Mac Automation\|Mac Automation]]
+- [[02 Unpublished/Mac Automation\|Mac Automation]]
