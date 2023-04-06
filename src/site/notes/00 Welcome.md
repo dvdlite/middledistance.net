@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-04-06T19:11:54.553-04:00"}
+{"dg-publish":true,"permalink":"/00-welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-04-06T19:16:04.285-04:00"}
 ---
 
 Welcome to my [[digital garden\|digital garden]], _Into the Middle Distance_. 
@@ -12,7 +12,7 @@ As such, you will find this a largely unstructured space. Items are interconnect
 
 I hope you, too, are able to find value here. You are welcome to follow along and even offer constructive insights if offered respectfully. Other digital gardeners have compiled a few [[rules of the road\|rules of the road]], which I hope you will bear in mind if you choose to participate. 
 
-You can peruse the connection graph below or use the search bar above if you are curious about a certain topic. Or see below for a few [[guidestone\|guidestone]] links to get you started. Welcome and enjoy.
+You can peruse the connection graph below, the menu to the left, or use the search bar above if you are curious about a certain topic. Or see below for a few [[guidestones\|guidestones]] to get you started. Welcome and enjoy.
 
 Guidestones: [[Technology\|Technology]], [[Woodworking\|Woodworking]], other [[Maker\|Maker]] projects, [[Self-Actualization\|Self-Actualization]] & [[Spirituality\|Spirituality]], [[Recreation\|Recreation]].
 
