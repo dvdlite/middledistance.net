@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T17:25:40.649-04:00"}
+{"dg-publish":true,"permalink":"/home-lab-config-as-of-2023-03-19/","created":"2023-04-06T16:14:33.400-04:00","updated":"2023-04-06T18:52:17.762-04:00"}
 ---
+
+
+This is my initial HomeLab configuration.
 
 #### HomeLab Hardware
 
