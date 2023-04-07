@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-04-06T19:22:31.658-04:00"}
+{"dg-publish":true,"permalink":"/00-welcome/","tags":["gardenEntry"],"created":"2023-03-14T19:10:12.030-04:00","updated":"2023-04-06T22:42:58.671-04:00"}
 ---
 
 Welcome to my [[digital garden\|digital garden]], _Into the Middle Distance_. 
@@ -8,7 +8,7 @@ The [Urban Dictionary](https://urbandictionary.com) defines “middle distance�
 
 If you are not familiar with digital gardens, think of them as similar to [[personal knowledge management\|personal knowledge management]] (PKM) systems. But rather than a personal/private repository everything is public. Intentionally public. As in [[learning in public\|learning in public]]. Others have described this as [[working with the garage door open\|working with the garage door open]]. 
 
-As such, you will find this a largely unstructured space. Items are interconnected organically rather than chronologically. My [[05 current focus\|05 current focus]] is subject to change. Many thoughts and topics may be incomplete, inaccurate, or in a draft state. That’s because this space is for me to capture, parse, ponder, and develop my thoughts and projects. 
+As such, you will find this a largely unstructured space. Items are interconnected organically rather than chronologically. My [[06 current focus\|06 current focus]] is subject to change. Many thoughts and topics may be incomplete, inaccurate, or in a draft state. That’s because this space is for me to capture, parse, ponder, and develop my thoughts and projects. 
 
 I hope you, too, are able to find value here. You are welcome to follow along and even offer constructive insights if offered respectfully. Other digital gardeners have compiled a few [[rules of the road\|rules of the road]], which I hope you will bear in mind if you choose to participate. 
 
@@ -20,4 +20,4 @@ Peace, welcome, and enjoy.
 
 Established March 14, 2023, (&pi; day for us Americans) while on vacation in Holetown, Barbados.
 
-[[01 Colophon\|01 Colophon]] | [[02 License\|02 License]] | [[03 Privacy\|03 Privacy]] | [[04 Contact\|04 Contact]]
+[[01 Colophon\|01 Colophon]] | [[02 License\|02 License]] | [[03 Disclaimer\|03 Disclaimer]] | [[04 Privacy\|04 Privacy]] | [[05 Contact\|05 Contact]]
