@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/pinecil-soldering-iron/","created":"2023-04-06T22:06:42.322-04:00","updated":"2023-04-06T22:30:56.762-04:00"}
+---
+
+
+The [Pinecil Smart Mini Portable Soldering Iron](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) is a great, compact soldering iron that can be powered via a USB-C cable, including [PD (Power Delivery)](https://manhattanproducts.eu/pages/usb-c-pd-charging-everything-you-need-to-know).  It's practically weightless, yet it runs an actual Open Source firmware, [IronOS](https://github.com/Ralim/IronOS), that manages the temperature, sleep mode, and other features.  It has a tiny OLED display to show you the tip temperature, up to 400° C.  If you need a temperature boost, just hold down the "+" button and it will increase the tip temp. You can flip the display if you are left-handed, too. If you set it down, it will go into sleep mode to conserve power.  When you pick it back up again, it ramps the temperature back up within a few short seconds.  The tip is replaceable/interchangeable. It's a great soldering iron for delicate electronics, quick fixes, and remote use with a battery pack.
