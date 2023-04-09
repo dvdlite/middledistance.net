@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sre-education-plan/","created":"2023-04-09T16:35:13.846-04:00","updated":"2023-04-09T16:41:24.341-04:00"}
+{"dg-publish":true,"permalink":"/sre-education-plan/","created":"2023-04-09T16:35:13.846-04:00","updated":"2023-04-09T16:52:06.189-04:00"}
 ---
 
-### Education Plan
+### [[SRE\|SRE]] Education Plan
 
 #### Core Concepts
 **Linux:** Command-line Tools & Scripting, Architecture, File System Management, Process Management, User & Group Management, Networking, Security, Performance Tuning, Virtualization
@@ -50,3 +50,4 @@
 **Rapidly Evolving**
 **Follow Industry Blogs, Attend Conferences, Participate In Online Communities**
 
+### [[SRE-related certifications\|SRE-related certifications]]
