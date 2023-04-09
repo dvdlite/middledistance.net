@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sre-related-certifications/","created":"2023-04-09T16:45:10.207-04:00","updated":"2023-04-09T16:51:45.010-04:00"}
+{"dg-publish":true,"permalink":"/sre-related-certifications/","created":"2023-04-09T16:45:10.207-04:00","updated":"2023-04-09T16:53:14.366-04:00"}
 ---
 
 ### [[SRE\|SRE]]-related certifications
@@ -16,6 +16,7 @@
 #### Microsoft
 - Microsoft Certified: Windows Server
 - Microsoft Certified: Azure DevOps Engineer Expert
+	- Prereq: Microsoft Certified: Azure Administrator Associate
 
 #### Cisco
 - Cisco Certified Network Professional (CCNP)
