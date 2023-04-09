@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sre/","created":"2023-04-09T16:34:08.441-04:00","updated":"2023-04-09T16:42:59.670-04:00"}
+{"dg-publish":true,"permalink":"/sre/","created":"2023-04-09T16:34:08.441-04:00","updated":"2023-04-09T16:53:56.340-04:00"}
 ---
 
+# Site Reliability Engineer
 
 ### Key Responsibilities
 
@@ -14,4 +15,4 @@
 - Collaborate with cross-functional teams to troubleshoot and resolve complex technical issues
 - Develop and maintain disaster recovery plans to ensure business continuity in the event of a disaster
 
-[[SRE education plan\|SRE education plan]]
+### [[SRE education plan\|SRE education plan]]
